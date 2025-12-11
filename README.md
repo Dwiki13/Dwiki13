@@ -42,8 +42,8 @@ Always learning. Always improving. Always building.
 
 ## 📊 Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dwiki13&show_icons=true&hide_title=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwiki13&layout=compact&theme=tokyonight" />
+  [<img height="150" src="https://github-readme-stats.vercel.app/api?username=Dwiki13&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwiki13&layout=compact&theme=tokyonight" />](url)
 </p>
 
 ---
