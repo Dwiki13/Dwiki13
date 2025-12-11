@@ -1,6 +1,6 @@
 <!-- Avatar -->
 <p align="center">
-  <img src="https://github.com/Dwiki13" width="95" style="border-radius:50%" />
+  <img src="https://github.com/Dwiki13.png" width="95" style="border-radius:50%" />
 </p>
 
 <h2 align="center">Hi, I'm <strong>Dwiki</strong> 👋</h2>
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 I'm a Fullstack Developer who loves building clean, scalable, and intuitive web applications.  
-I focus on delivering smooth user experiences, robust backend logic, and well-structured systems.
+I focus on creating smooth user experiences, robust backend systems, and maintainable codebases.
 
 Always learning. Always improving. Always building.
 
@@ -42,22 +42,22 @@ Always learning. Always improving. Always building.
 
 ## 📊 Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dwiki13&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwiki13&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌱 Current Focus
-- Crafting scalable backend architecture  
-- Building microservices  
-- Improving clean UI/UX with React & Next.js  
+- Building scalable backend architecture  
+- Designing microservices  
+- Improving UI/UX with React & Next.js  
 
 ---
 
 ## 🤝 Connect
 <p>
-  <a href="https://www.linkedin.com/in/your-link/">
+  <a href="https://www.linkedin.com/in/your-link">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
