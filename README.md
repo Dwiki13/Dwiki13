@@ -30,7 +30,7 @@ Always learning. Always improving. Always building.
 
 ### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,nosql,sqlserver" />
+   <img src="https://skillicons.dev/icons?i=mysql,sql,mongodb" />
 </p>
 
 ### **Tools**
