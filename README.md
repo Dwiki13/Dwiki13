@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">Hi, I'm <strong>Dwiki</strong> 👋</h2>
-<h4 align="center">Fullstack Developer</h4>
 
 ---
 
