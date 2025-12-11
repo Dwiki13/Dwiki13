@@ -79,3 +79,20 @@ Turning ideas into interactive, meaningful products is what keeps me going.
 <p align="center">
   <i>"Keep building. Keep learning. Stay consistent."</i>
 </p>
+
+## 🧩 Contributions & Activity
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <!-- Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
+</p>
