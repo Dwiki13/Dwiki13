@@ -61,7 +61,7 @@ Always learning. Always improving. Always building.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="https://your-portfolio-link.com">
+  <a href="https://dwikinugroho.netlify.app/">
     <img src="https://skillicons.dev/icons?i=web" />
   </a>
 </p>
