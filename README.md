@@ -1,5 +1,4 @@
-<!-- Avatar -->
-<p align="center">
+p align="center">
   <img src="https://github.com/Dwiki13.png" width="95" style="border-radius:50%" />
 </p>
 
@@ -42,11 +41,9 @@ Always learning. Always improving. Always building.
 
 ## 📊 Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dwiki13&show_icons=true&hide_title=true&theme=tokyonight&v=1" />
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dwiki13&layout=compact&theme=tokyonight&v=1" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dwiki13&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwiki13&layout=compact&theme=tokyonight" />
 </p>
-
-
 
 ---
 
