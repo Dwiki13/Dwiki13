@@ -30,9 +30,7 @@ Always learning. Always improving. Always building.
 
 ### **Database**
 <p>
-   <img src="https://skillicons.dev/icons?i=mysql,cosmosdb" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" />
-
+   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### **Tools**
