@@ -1,75 +1,67 @@
-<!-- Banner -->
+<!-- Avatar -->
 <p align="center">
-  <img src="https://github.com/your-username.png" width="100" style="border-radius:50%" />
+  <img src="https://github.com/your-username.png" width="95" style="border-radius:50%" />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#4f46e5">Dwiki</span> 👋</h1>
-<h3 align="center">🚀 Fullstack Developer</h3>
+<h2 align="center">Hi, I'm <strong>Dwiki</strong> 👋</h2>
+<h4 align="center">Fullstack Developer</h4>
 
 ---
 
-## 🧑‍💻 About Me  
-I'm a Fullstack Developer passionate about crafting seamless, high-quality web experiences —  
-from intuitive front-end interfaces to robust, scalable back-end systems.
+## 🧑‍💻 About Me
+I'm a Fullstack Developer who loves building clean, scalable, and intuitive web applications.  
+I focus on delivering smooth user experiences, robust backend logic, and well-structured systems.
 
-Not the best, but always learning. Always building.  
-Turning ideas into interactive, meaningful products is what keeps me going.
+Always learning. Always improving. Always building.
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Frontend**
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind" />
 </p>
 
-### **Backend**
+**Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,dotnet" />
 </p>
 
-### **Database**
+**Database**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### **DevOps & Tools**
+**Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,postman" />
 </p>
 
 ---
 
-## 🚀 What I'm Working On
-- Building scalable microservices  
-- Improving backend architecture & performance  
-- Crafting modern and clean UI/UX in React/Next.js  
-
----
-
-## 📈 GitHub Stats
+## 📊 Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" />
-</p>
+## 🌱 Current Focus
+- Crafting scalable backend architecture  
+- Building microservices  
+- Improving clean UI/UX with React & Next.js  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 <p>
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-link/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://your-portfolio-link.com">
     <img src="https://skillicons.dev/icons?i=web" />
   </a>
 </p>
@@ -77,22 +69,5 @@ Turning ideas into interactive, meaningful products is what keeps me going.
 ---
 
 <p align="center">
-  <i>"Keep building. Keep learning. Stay consistent."</i>
-</p>
-
-## 🧩 Contributions & Activity
-
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
+  <i>"Keep building. Stay consistent."</i>
 </p>
