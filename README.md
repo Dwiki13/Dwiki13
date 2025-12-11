@@ -18,22 +18,22 @@ Always learning. Always improving. Always building.
 
 ## 🛠 Tech Stack
 
-**Frontend**
+### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,bootstrap,javascript" />
 </p>
 
-**Backend**
+### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,dotnet" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,go" />
 </p>
 
-**Database**
+### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**Tools**
+### **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,postman" />
 </p>
