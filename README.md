@@ -20,7 +20,7 @@ Always learning. Always improving. Always building.
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,bootstrap,javascript" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,bootstrap,javascript,nextjs" />
 </p>
 
 ### **Backend**
