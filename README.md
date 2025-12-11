@@ -25,7 +25,7 @@ Always learning. Always improving. Always building.
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,go" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,go,cs" />
 </p>
 
 ### **Database**
