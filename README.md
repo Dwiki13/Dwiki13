@@ -30,7 +30,7 @@ Always learning. Always improving. Always building.
 
 ### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,azure,sqlserver" />
 </p>
 
 ### **Tools**
@@ -57,7 +57,7 @@ Always learning. Always improving. Always building.
 
 ## 🤝 Connect
 <p>
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="http://linkedin.com/in/dnugroho13">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
