@@ -1,6 +1,6 @@
 <!-- Avatar -->
 <p align="center">
-  <img src="https://github.com/your-username.png" width="95" style="border-radius:50%" />
+  <img src="https://github.com/Dwiki13" width="95" style="border-radius:50%" />
 </p>
 
 <h2 align="center">Hi, I'm <strong>Dwiki</strong> 👋</h2>
