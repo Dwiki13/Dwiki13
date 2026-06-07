@@ -1,67 +1,74 @@
 <p align="center">
-  <img src="https://github.com/Dwiki13.png" width="95" style="border-radius:50%" />
+  <img src="https://github.com/Dwiki13.png" width="100" style="border-radius:50%" />
 </p>
 
 <h2 align="center">Hi, I'm <strong>Dwiki</strong> 👋</h2>
 
+<p align="center">
+  Fullstack Developer · Building clean, scalable, and intuitive web apps
+</p>
+
+<p align="center">
+  <a href="http://linkedin.com/in/dnugroho13">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://dwikinugroho.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
-I'm a Fullstack Developer who loves building clean, scalable, and intuitive web applications.  
-I focus on creating smooth user experiences, robust backend systems, and maintainable codebases.
 
-Always learning. Always improving. Always building.
+- 🔭 Fullstack Developer focused on clean architecture & smooth UX
+- 🌱 Currently deep-diving into microservices & scalable backend systems
+- ⚡ Always learning. Always improving. Always building.
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Frontend**
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,bootstrap,javascript,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript,tailwind,html,css,bootstrap" />
 </p>
 
-### **Backend**
+**Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,laravel,go,cs" />
 </p>
 
-### **Database**
+**Database**
 <p>
-   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### **Tools**
+**Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" />
 </p>
 
 ---
 
 ## 📊 Stats
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats-blond-six-10.vercel.app/api?username=Dwiki13&show_icons=true&hide_title=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats-blond-six-10.vercel.app/api/top-langs/?username=Dwiki13&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats-blond-six-10.vercel.app/api?username=Dwiki13&show_icons=true&hide_title=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-blond-six-10.vercel.app/api/top-langs/?username=Dwiki13&layout=donut&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dwiki13&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-## 🌱 Current Focus
-- Building scalable backend architecture  
-- Designing microservices  
-- Improving UI/UX with React & Next.js  
+## 🏆 Trophies
 
----
-
-## 🤝 Connect
-<p>
-  <a href="http://linkedin.com/in/dnugroho13">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://dwikinugroho.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=web" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dwiki13&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
